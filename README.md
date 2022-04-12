@@ -83,26 +83,17 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"  width="32" height="32" /> 
   </a>
 </p>
-
 <br>
-<div align="left">
-  <h3>Statistical Data :-</h3>
-  <p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="melonerr" 
-    bg_color=#808080/>
-  </p>
-</div>
-<div align="left">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="melonerr" />
-  </p>
-</div>
-<div align="left">
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melonerr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="melonerr" />
+<hr>
+<h3 align="left" >Statistical Data :-</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="ovi" />
 </p>
-</div>
+<p>&nbsp;
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"    alt="ovi" width="410" />
+</p>
+<br>
+<br><br><br><br><br>
+<hr>
+
 
