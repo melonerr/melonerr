@@ -1,42 +1,45 @@
 
+<h1 align="center">Hi 👋, I'm Jirawat Kakeaw</h1>
 
-<!--
-**melonerr/melonerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div id="header" align="center">
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jirawat-kakeaw/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:jrdream.dev@gmail.com"  target="_blank">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC3Vgvj1uJ3fuBDDBxSY8tEw"  target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-</div>
-
-<!-- <p>
-  <img  align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="adam-pw" />
-</p> -->
 <br>
+<hr>
+<h3>About Me</h3>
+<img width="300px" align="right" alt="Github" src="https://raw.githubusercontent.com/melonerr/melonerr/master/image/person.svg" />
 
-<h3 align="left">Languages and Tools:</h3>
+- 🔭 I’m currently working on Premier Print & Products Co Ltd.
+  
+- 🌱 I’m currently learning Python Web Framework .
+  
+- 💬 Ask me about Sql, JavaScript, php, NuxtJS.
+  
+- 📫 I am also a technical writer at Medium.
+
+<br>
+<hr>
+<h3 align="left">Connect with me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jirawat-kakeaw/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  &ensp;
+  <a href="https://www.facebook.com/menowthai" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+  &ensp;
+ <a href="mailto:jrdream.dev@gmail.com" target="blank"><img align="center"
+      src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+      alt="adampithewan" height="40" width="40" /></a>
+  &ensp;
+</p>
+<br>
+<hr>
+
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" /> 
@@ -71,10 +74,10 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" /> 
   </a>
   <a href="https://lumen.laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/lumen-1-logo.png" alt="lumen" width="40" height="32" /> 
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/lumen-1-logo.png" alt="lumen" width="40" height="35" /> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" /> 
   </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" /> 
@@ -93,15 +96,16 @@ Here are some ideas to get you started:
 </p>
 <br>
 <hr>
-<h3 align="left" >Statistical Data :-</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="ovi" />
-</p>
-<p>&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"    alt="ovi" width="410" />
+<h3 align="left" >My Statistics</h3>
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=melonerr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 <br>
-<br><br><br><br><br>
-<hr>
 
 
+
+-----
+
+Last Edited on: 12/04/2022
