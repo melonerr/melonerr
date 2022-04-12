@@ -89,11 +89,14 @@ Here are some ideas to get you started:
 <p align="left"><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="melonerr" 
-    bg_color=#808080/></p>
-
+    bg_color=#808080/>
+</p>
 <br>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="melonerr" /></p>
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="melonerr" />
+</p>
 <br>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melonerr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="melonerr" /></p>
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melonerr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="melonerr" />
+</p>
 
