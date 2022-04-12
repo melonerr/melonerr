@@ -99,7 +99,6 @@
 <br>
 <hr>
 <h3 align="left" >My Statistics</h3>
-<br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=melonerr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
