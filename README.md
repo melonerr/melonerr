@@ -43,56 +43,58 @@
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" /> 
-  </a> 
+  </a> &ensp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" /> 
-  </a> 
+  </a> &ensp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
+  </a>&ensp;
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40" /> 
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40" /> 
+  </a>&ensp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" /> 
-  </a>
-  <a href="https://bootstrap-vue.org/" target="_blank" rel="noreferrer">
+  </a>&ensp;
+<!--   <a href="https://bootstrap-vue.org/" target="_blank" rel="noreferrer">
     <img src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png" alt="bootstrap-vue" width="40" height="40" /> 
-  </a>
-  
+  </a>&ensp; -->
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /> 
-  </a>
+  </a>&ensp;
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="45" height="45" /> 
-  </a>
-  
+  </a>&ensp;
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" /> 
-  </a>
+  </a>&ensp;
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" /> 
-  </a>
+  </a>&ensp;
   <a href="https://lumen.laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/lumen-1-logo.png" alt="lumen" width="40" height="35" /> 
-  </a>
+  </a>&ensp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" /> 
-  </a> 
+  </a> &ensp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" /> 
-  </a> 
-  
+  </a> &ensp;
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/melonerr/melonerr/master/image/github.svg" alt="firebase" width="40" height="40" /> 
-  </a> 
+  </a> &ensp;
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="firebase" width="40" height="40" background/> 
-  </a> 
-  
+  </a> &ensp;
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="firebase" width="40" height="40" background/> 
+  </a> &ensp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"  width="32" height="32" /> 
-  </a>
+  </a>&ensp;
+    <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="figma"  width="32" height="32" /> 
+  </a>&ensp;
 </p>
 <br>
 <hr>
