@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jirawat-kakeaw/">
+  <a href="https://www.linkedin.com/in/jirawat-kakeaw/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:jrdream.dev@gmail.com">
+  <a href="mailto:jrdream.dev@gmail.com"  target="_blank">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC3Vgvj1uJ3fuBDDBxSY8tEw">
+  <a href="https://www.youtube.com/channel/UC3Vgvj1uJ3fuBDDBxSY8tEw"  target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </div>
