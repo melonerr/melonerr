@@ -85,26 +85,22 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<table  width="100%" style="border:none;">
-  <tr  style="border:0;">
-    <td width="50%" style="border:0;">
-     1
-    </td>
-    <td  width="50%" style="border:0;">
-     2
-    </td>
-  </tr>
-</table>
-<h3 align="left">Statistical Data :-</h3>
-<p align="left"><img align="center"
+<div align="left">
+  <h3>Statistical Data :-</h3>
+  <p>
+  <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="melonerr" 
     bg_color=#808080/>
-</p>
-<br>
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+  </p>
+</div>
+<div align="right">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="melonerr" />
-</p>
+  </p>
+</div>
+
 <br>
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melonerr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="melonerr" />
