@@ -100,9 +100,9 @@ Here are some ideas to get you started:
     alt="melonerr" />
   </p>
 </div>
-
-<br>
-<p align="right">
+<div align="left">
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melonerr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="melonerr" />
 </p>
+</div>
 
