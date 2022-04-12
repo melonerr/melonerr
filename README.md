@@ -86,16 +86,12 @@ Here are some ideas to get you started:
 
 <br>
 <table  width="100%" style="border:none;">
-  <tr>
-    <td width="50%">
-      <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-      alt="melonerr" 
-     bg_color=#808080/>
+  <tr  style="border:0;">
+    <td width="50%" style="border:0;">
+     1
     </td>
-    <td  width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/apiusername=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-       alt="melonerr" />
+    <td  width="50%" style="border:0;">
+     2
     </td>
   </tr>
 </table>
