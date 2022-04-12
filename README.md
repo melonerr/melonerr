@@ -85,10 +85,18 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<table  width="100%">
+<table  width="100%" border="0">
   <tr>
-    <td width="50%"> 1 </td>
-    <td  width="50%"> 2 </td>
+    <td width="50%">
+      <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="melonerr" 
+    bg_color=#808080/>
+    </td>
+    <td  width="50%">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=melonerr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="melonerr" />
+    </td>
   </tr>
 </table>
 <h3 align="left">Statistical Data :-</h3>
