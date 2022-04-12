@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on Premier Print & Products Co Ltd.
   
-- 🌱 I’m currently learning Python Web Framework .
+- 🌱 I’m currently learning Python Web Framework and TypeScript.
   
 - 💬 Ask me about Sql, JavaScript, php, NuxtJS.
   
