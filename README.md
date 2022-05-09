@@ -71,6 +71,9 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" /> 
   </a>&ensp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="php" width="45" height="45" /> 
+  </a>&ensp;
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" /> 
   </a>&ensp;
@@ -83,13 +86,19 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" /> 
   </a> &ensp;
+   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/melonerr/melonerr/master/image/express-original.svg" alt="firebase" width="40" height="40" /> 
+  </a> &ensp;
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/melonerr/melonerr/master/image/github.svg" alt="firebase" width="40" height="40" /> 
   </a> &ensp;
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="firebase" width="40" height="40" background/> 
   </a> &ensp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="firebase" width="35" height="35" background/> 
+  </a> &ensp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="firebase" width="40" height="40" background/> 
   </a> &ensp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -112,4 +121,4 @@
 
 -----
 
-Last Edited on: 12/04/2022
+Last Edited on: 9/05/2022
