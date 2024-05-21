@@ -75,7 +75,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="php" width="45" height="45" /> 
   </a>&ensp;
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" /> 
   </a>&ensp;
   <a href="https://lumen.laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/lumen-1-logo.png" alt="lumen" width="40" height="35" /> 
