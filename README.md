@@ -104,9 +104,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"  width="32" height="32" /> 
   </a>&ensp;
-    <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="figma"  width="32" height="32" /> 
-  </a>&ensp;
+
 </p>
 <br>
 <hr>
